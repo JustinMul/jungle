@@ -1,3 +1,4 @@
+# file is used for testing adding to cart
 require 'rails_helper'
 
 RSpec.feature "AddToCarts", type: :feature, js: true do

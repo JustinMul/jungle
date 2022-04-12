@@ -1,3 +1,4 @@
+# file is used for testing reaching the specific product pages
 require 'rails_helper'
 
 RSpec.feature "ProductDetails", type: :feature, js: true do
