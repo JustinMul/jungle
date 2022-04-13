@@ -33,3 +33,32 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Stripe
 
 ## Features
+Upon logging in and going to the home page the user will be greated by a page like below.
+![image](https://user-images.githubusercontent.com/95982839/163188445-67b5a6e0-2b2c-4878-81dc-ae9aebf9eb7e.png)
+
+Here the user can click into specific items to get further details.
+![image](https://user-images.githubusercontent.com/95982839/163188816-f5227298-1c44-4453-84c9-37b1e30bffcb.png)
+
+If the user clicks the add button the cart at the top of the page will update. 
+![image](https://user-images.githubusercontent.com/95982839/163189453-e06d8b48-ce75-4c36-9587-f62050c6b967.png)
+
+Users can also filter by categories.
+![image](https://user-images.githubusercontent.com/95982839/163189601-176839a1-7ad6-4d36-8bf0-3d73c188bfed.png)
+
+When users are ready to checkout they can view their cart and make changes.
+![image](https://user-images.githubusercontent.com/95982839/163189716-9d1bde6a-af69-4be1-9c15-28729492dc81.png)
+
+Users will be greeted by a pop up pay window when readay to pay.
+![image](https://user-images.githubusercontent.com/95982839/163189819-ad74f0fe-7091-4119-951b-3cdb53f18cbc.png)
+
+Once a successful transaction has been completed users can review their order.
+![image](https://user-images.githubusercontent.com/95982839/163189983-6a07075e-6ee3-4c85-b27a-776dce3bb0e9.png)
+
+If a user is logged in as an admin they can also add products or categories.
+![image](https://user-images.githubusercontent.com/95982839/163190933-546cde64-3a54-4435-9dd6-053d75f966cf.png)
+![image](https://user-images.githubusercontent.com/95982839/163191061-7f6fe07e-c155-4718-877f-3fd21b04dd7b.png)
+
+
+![image](https://user-images.githubusercontent.com/95982839/163190933-546cde64-3a54-4435-9dd6-053d75f966cf.png)
+
+![image](https://user-images.githubusercontent.com/95982839/163189601-176839a1-7ad6-4d36-8bf0-3d73c188bfed.png)
