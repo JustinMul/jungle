@@ -57,8 +57,3 @@ Once a successful transaction has been completed users can review their order.
 If a user is logged in as an admin they can also add products or categories.
 ![image](https://user-images.githubusercontent.com/95982839/163190933-546cde64-3a54-4435-9dd6-053d75f966cf.png)
 ![image](https://user-images.githubusercontent.com/95982839/163191061-7f6fe07e-c155-4718-877f-3fd21b04dd7b.png)
-
-
-![image](https://user-images.githubusercontent.com/95982839/163190933-546cde64-3a54-4435-9dd6-053d75f966cf.png)
-
-![image](https://user-images.githubusercontent.com/95982839/163189601-176839a1-7ad6-4d36-8bf0-3d73c188bfed.png)
